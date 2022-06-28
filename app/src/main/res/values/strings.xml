@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Profile Item</string>
+    <string name="user_name">Rasha Alaswad</string>
+    <string name="time">3 hr</string>
+    <string name="user_job">Engineer</string>
+    <string name="user_nationality">Palestinian</string>
+    <string name="user_location">PS</string>
+    <string name="user_registration_date">5 Days ago</string>
+    <string name="rating">4.5</string>
+    <string name="total_reviews">(150 Reviews)</string>
+    <string name="user_image_description">User Image</string>
+</resources>
